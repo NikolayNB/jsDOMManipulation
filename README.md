@@ -2,7 +2,7 @@
 
 Course JS on the web: manipulating DOM with JS.
 
-Update: 19th of June - course started.
+Update: 19th of June - course 2 of 5 completed
 
 Courses:
 1.- Learning about DOM.
